@@ -282,3 +282,42 @@ C#(닷넷코어), AWS, 유니티
 - 우편 시스템 구현
 - 최초 10뽑기 무제한 제공 시스템 구현.
 - 마일리지 뽑기 구현.
+
+
+</br>
+</br>
+</br>
+
+
+<img
+    src = "img/갓오브방치.png"
+    width = 100
+    height = 100
+/>
+
+## 갓 오브 방치
+
+### 사용기술
+
+#### C#
+- asp.net
+
+#### AWS
+- Lambda
+- API Gateway
+- Route53
+- RDS
+- S3
+- CDK
+- EB
+- CodeBuild
+- CodePipeline
+- CloudWatch
+
+#### 유니티
+
+### 작업 내용
+- 구글, 애플의 API를 통한 구매 영수증 검증.
+- CloudWatch를 통한 로깅.
+- CodePipeline을 통한 코드 자동 배포.
+- 꿈의 집 같은 저택 청소 컨텐츠 구현.
