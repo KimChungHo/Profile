@@ -103,7 +103,7 @@ C#(닷넷코어), AWS, 유니티
 - Route53
 - RDS
 - S3
-- EB
+- ElasticBeanstalk
 - CloudWatch
 - Redis
 - DynamoDB
@@ -269,7 +269,7 @@ C#(닷넷코어), AWS, 유니티
 - RDS
 - S3
 - CDK
-- EB
+- ElasticBeanstalk
 - CodeBuild
 - CodePipeline
 - CloudWatch
@@ -343,7 +343,7 @@ C#(닷넷코어), AWS, 유니티
 - RDS
 - S3
 - CDK
-- EB
+- ElasticBeanstalk
 - CodeBuild
 - CodePipeline
 - CloudWatch
