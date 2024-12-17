@@ -349,7 +349,7 @@ C#(닷넷코어), AWS, 유니티, GoLang
     height = 100
 />
 
-## 고블린 퀘스트 : Idle Adventure (라이브 중)
+## 고블린 퀘스트 : Idle Adventure (서비스 종료)
 
 ### 사용기술
 
