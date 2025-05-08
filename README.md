@@ -196,29 +196,6 @@ C#(닷넷코어), AWS, 유니티, GoLang
 </br>
 
 
-### 사용기술
-
-#### 자바스크립트
-- node.js
-
-#### AWS
-- Lambda
-- API Gateway
-- Route53
-- RDS
-- S3
-
-#### 작업 내용
-- Lambda에 개별 파일을 통해 배포.
-- 구글, 애플의 API를 통한 구매 영수증 검증.
-- S3에 유저들의 데이터 백업.
-
-
-</br>
-</br>
-</br>
-
-
 <img
     src = "img/유니버스타.png"
     width = 100
